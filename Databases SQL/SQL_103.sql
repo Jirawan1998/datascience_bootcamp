@@ -147,7 +147,7 @@ SELECT * FROM book_shop
 UNION
 SELECT * FROM book_shop_new;
 
---UNION ALL
+-- UNION ALL
 SELECT * FROM book_shop
 UNION ALL
 SELECT * FROM book_shop_new;
