@@ -147,6 +147,12 @@ SELECT * FROM book_shop
 UNION
 SELECT * FROM book_shop_new;
 
+--UNION ALL
+SELECT * FROM book_shop
+UNION ALL
+SELECT * FROM book_shop_new;
+
+
 -- Intro to Subqueries
 -- Not Subqueries
 SELECT * FROM tracks ORDER by milliseconds DESC LIMIT 1;
