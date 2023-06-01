@@ -1,5 +1,4 @@
-# datascience_bootcamp_project
-All my data project in the bootcamp. There are 10 sprints as follow
+# datascience_bootcamp
 
 - Google Sheets
 - SQL
